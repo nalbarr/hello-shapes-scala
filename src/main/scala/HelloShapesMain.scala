@@ -1,5 +1,6 @@
 import model.{Shapes, Shape, Square, Triangle}
 
+
 object HelloShapesMain {
   
     def main(args: Array[String]): Unit = {
